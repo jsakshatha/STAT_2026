@@ -178,9 +178,73 @@ Mean = (Sum of all heights) / (Number of students)
 
 ---
 
-## 🧠 Key Takeaway
+# 📊 Histogram and Data Distribution
 
-👉 **First we describe the data (Descriptive Statistics)**  
-👉 **Then we predict beyond the data (Inferential Statistics)**  
+---
+
+## 📌 What is a Histogram?
+
+A **histogram** is a graphical representation used to show the distribution of numerical data.
+
+- The **X-axis** represents data intervals (bins)  
+- The **Y-axis** represents frequency (number of observations)  
+
+---
+
+## 📈 Histogram Example
+
+![Histogram Example](https://www.mathsisfun.com/data/images/histogram.svg)
+
+---
+
+## 🔔 Normal Distribution
+
+![Normal Distribution](https://www.mathsisfun.com/data/images/normal-distribution.svg)
+
+### Definition
+
+A **normal distribution** is a symmetrical distribution where:
+
+- Mean = Median = Mode  
+- Most values are concentrated in the center  
+- The graph forms a bell-shaped curve  
+
+---
+
+## ➡️ Right Skewed Distribution (Positive Skew)
+
+![Right Skewed Distribution](https://www.mathsisfun.com/data/images/skewness-right.svg)
+
+### Definition
+
+A **right-skewed distribution** is a distribution where:
+
+- The tail is longer on the right side  
+- Most values are concentrated on the left  
+- Few large values increase the average  
+
+---
+
+## ⬅️ Left Skewed Distribution (Negative Skew)
+
+![Left Skewed Distribution](https://www.mathsisfun.com/data/images/skewness-left.svg)
+
+### Definition
+
+A **left-skewed distribution** is a distribution where:
+
+- The tail is longer on the left side  
+- Most values are concentrated on the right  
+- Few small values reduce the average  
+
+---
+
+## 📊 Summary Table
+
+| Distribution Type | Shape        | Tail Direction | Characteristics                      |
+|------------------|-------------|---------------|--------------------------------------|
+| Normal           | Bell-shaped | No skew       | Mean = Median = Mode                 |
+| Right Skewed     | Asymmetrical| Right         | Few large values                     |
+| Left Skewed      | Asymmetrical| Left          | Few small values                     |
 
 ---
