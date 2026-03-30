@@ -78,3 +78,109 @@ Gender count:
 - Students' performance is centered around **78**
 - Both **boys and girls are equally represented**
 - Dataset is **balanced**
+
+
+
+
+---
+
+# 📊 Statistics Lesson: Average Height of Students
+
+---
+
+## ❓ Step 1: Question
+
+In an organization, we want to find:
+
+👉 **What is the average height of students?**
+
+---
+
+## 📊 Step 2: Dataset (Sample Data)
+
+| Student Name | Height (cm) |
+|-------------|------------|
+| Asha        | 150        |
+| Ravi        | 160        |
+| Meena       | 155        |
+| Kiran       | 170        |
+| Pooja       | 165        |
+| Arun        | 158        |
+| Divya       | 162        |
+| Rahul       | 168        |
+| Sneha       | 159        |
+| Mohan       | 161        |
+
+---
+
+## 📘 Step 3: Definition of Statistics
+
+**Statistics** is the process of:
+- Collecting data  
+- Organizing data  
+- Analyzing data  
+- Interpreting data  
+
+👉 In simple words:  
+**Statistics helps us understand data and make decisions.**
+
+---
+
+## 📗 Step 4: Types of Statistics
+
+### 1️⃣ Descriptive Statistics
+
+**Definition:**  
+Descriptive statistics is used to summarize and describe the data we already have.
+
+**Example from dataset:**
+- Mean (Average) height = 160.8 cm  
+- Minimum height = 150 cm  
+- Maximum height = 170 cm  
+
+👉 It answers:  
+**“What is happening in this dataset?”**
+
+---
+
+### 2️⃣ Inferential Statistics
+
+**Definition:**  
+Inferential statistics is used to make predictions or generalizations about a larger population based on sample data.
+
+**Example:**
+- We used only 10 students (sample)  
+- We estimate for all students in the organization  
+
+👉 Estimated average height range (inference):  
+**150.8 cm to 170.8 cm**
+
+👉 It answers:  
+**“What can we conclude about the whole population?”**
+
+---
+
+## 🧮 Step 5: Calculation of Mean
+
+Mean Formula:
+
+Mean = (Sum of all heights) / (Number of students)
+
+= 1608 / 10  
+= **160.8 cm**
+
+---
+
+## 🎯 Step 6: Final Understanding
+
+- Calculating average → **Descriptive Statistics**  
+- Estimating range for all students → **Inferential Statistics**
+
+---
+
+## 🧠 Key Takeaway
+
+👉 **First we describe the data (Descriptive Statistics)**  
+👉 **Then we predict beyond the data (Inferential Statistics)**  
+
+---
