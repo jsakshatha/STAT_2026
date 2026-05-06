@@ -248,36 +248,6 @@ A **left-skewed distribution** is a distribution where:
 | Left Skewed      | Asymmetrical| Left          | Few small values                     |
 
 ---
-# 📊 Histogram and Data Distribution (Student Scores 0–100)
 
----
-
-## 📌 What is a Histogram?
-
-A histogram shows how numerical data is distributed across ranges.
-
-- X-axis → Score ranges  
-- Y-axis → Number of students  
-
----
-
-## 📊 Distributions
-
-```mermaid
-xychart-beta
-    title "Histogram Distributions"
-
-    %% Normal Distribution
-    x-axis ["40-50","50-60","60-70","70-80","80-90"]
-    y-axis "Students" 0 --> 6
-    bar [2,4,6,4,2]
-
-    %% Right Skewed
-    ---
-    x-axis ["0-20","20-40","40-60","60-80","80-100"]
-    bar [6,5,3,2,1]
-
-    %% Left Skewed
-    ---
     x-axis ["0-20","20-40","40-60","60-80","80-100"]
     bar [1,2,3,5,6]
